@@ -2,6 +2,6 @@
 
 https://repozytorium-kodi.github.io/
 
-A repository of unofficial add-ons for Kodi 19 Matrix, Kodi 20 Nexus and Kodi 21 Omega.
+A repository of unofficial add-ons for Kodi v19 Matrix, v20 Nexus, v21 Omega and v22 Piers.
 
 Download and install the [zip file](https://repozytorium-kodi.github.io/Repozytorium-Kodi.zip) in Kodi.
